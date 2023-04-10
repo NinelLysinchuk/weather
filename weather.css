@@ -1,0 +1,19 @@
+td {
+    text-align: center;
+    padding: 15px 20px;
+}
+
+th {
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 35%;
+}
+
+.city {background-color: aliceblue;}
+
+tr {
+    background-color: lightsteelblue;
+}
