@@ -1,1 +1,1 @@
-weather forecast (currently under development)
+weather forecast (work in progress)
